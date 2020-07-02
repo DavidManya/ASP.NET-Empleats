@@ -1,0 +1,5 @@
+C:\Users\dmany\Desktop\Empleats\Empleats\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.deps.json
+C:\Users\dmany\Desktop\Empleats\Empleats\Common.Lib\bin\Debug\netstandard2.0\Common.Lib.dll
+C:\Users\dmany\Desktop\Empleats\Empleats\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\Empleats\Empleats\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfoInputs.cache
+C:\Users\dmany\Desktop\Empleats\Empleats\Common.Lib\obj\Debug\netstandard2.0\Common.Lib.AssemblyInfo.cs

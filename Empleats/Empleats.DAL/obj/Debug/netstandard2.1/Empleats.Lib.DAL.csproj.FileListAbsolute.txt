@@ -1,0 +1,4 @@
+C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Common.Lib.dll
+C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfo.cs
