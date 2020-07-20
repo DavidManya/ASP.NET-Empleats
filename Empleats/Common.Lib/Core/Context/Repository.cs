@@ -1,4 +1,4 @@
-﻿using Common.Lib.Core.Context.Interfaces;
+﻿using Common.Lib.Core.Context;
 using Common.Lib.Infrastructure;
 using System;
 using System.Collections.Generic;
@@ -30,11 +30,11 @@ namespace Common.Lib.Core
             }
             if (DbSet.ContainsKey(entity.Id))
             {
-                output.SaveValidationSuccesful = false;
-                output.SaveValidationMessages.Add("Ya existe entidad con este GUID");
+                output.IsSuccess = false;
+                output.Validation.Errors.Add("Ya existe entidad con este GUID");
             }
 
-            if (output.SaveValidationSuccesful)
+            if (output.IsSuccess)
             {
                 DbSet.Add(entity.Id, entity);
 
@@ -49,15 +49,15 @@ namespace Common.Lib.Core
 
             if (entity.Id == default(Guid))
             {
-                output.SaveValidationSuccesful = false;
-                output.SaveValidationMessages.Add("No se puede modificar entidad sin GUID.");
+                output.IsSuccess = false;
+                output.Validation.Errors.Add("No se puede modificar entidad sin GUID.");
             }
             if (entity.Id != default(Guid) && !DbSet.ContainsKey(entity.Id))
             {
-                output.SaveValidationSuccesful = false;
-                output.SaveValidationMessages.Add("No existe ninguna entidad con este GUID.");
+                output.IsSuccess = false;
+                output.Validation.Errors.Add("No existe ninguna entidad con este GUID.");
             }
-            if (output.SaveValidationSuccesful)
+            if (output.IsSuccess)
             {
                 DbSet[entity.Id] = entity;
             }

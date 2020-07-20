@@ -1,9 +1,7 @@
-﻿using Common.Lib.Core.Context.Interfaces;
+﻿using Common.Lib.Core.Context;
 using Common.Lib.Infrastructure;
 using Common.Lib.Infrastructure.Interfaces;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Common.Lib.Core
 {
@@ -25,7 +23,7 @@ namespace Common.Lib.Core
 
             CurrentValidation = Validate();
 
-            if (CurrentValidation.ValidationSuccesful)
+            if (CurrentValidation.IsSuccess)
             {
                 var repo = DepCon.Resolve<IRepository<T>>();
 
@@ -50,7 +48,7 @@ namespace Common.Lib.Core
 
             CurrentValidation = Validate();
 
-            if (CurrentValidation.ValidationSuccesful)
+            if (CurrentValidation.IsSuccess)
             {
                 var repo = DepCon.Resolve<IRepository<T>>();
 
@@ -66,7 +64,7 @@ namespace Common.Lib.Core
         {
             var output = new ValidationResult()
             {
-                ValidationSuccesful = true
+                IsSuccess = true
             };
 
             return output;

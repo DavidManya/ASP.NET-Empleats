@@ -2,3 +2,31 @@ C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\C
 C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csprojAssemblyReference.cache
 C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfoInputs.cache
 C:\Users\dmany\Desktop\Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfo.cs
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.deps.json
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.dll
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.pdb
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Common.Lib.dll
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.dll
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Common.Lib.pdb
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.pdb
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csprojAssemblyReference.cache
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfoInputs.cache
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfo.cs
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csproj.CoreCompileInputs.cache
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csproj.CopyComplete
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.dll
+C:\Users\dmany\Desktop\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.pdb
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.deps.json
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.dll
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.DAL.pdb
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Common.Lib.dll
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.dll
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Common.Lib.pdb
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\bin\Debug\netstandard2.1\Empleats.Lib.pdb
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csprojAssemblyReference.cache
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfoInputs.cache
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.AssemblyInfo.cs
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csproj.CoreCompileInputs.cache
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.csproj.CopyComplete
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.dll
+D:\ASP.NET Empleats\Empleats\Empleats.DAL\obj\Debug\netstandard2.1\Empleats.Lib.DAL.pdb

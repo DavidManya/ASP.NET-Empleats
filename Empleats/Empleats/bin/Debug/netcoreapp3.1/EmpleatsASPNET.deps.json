@@ -24,8 +24,10 @@
     ".NETCoreApp,Version=v3.1": {
       "EmpleatsASPNET/1.0.0": {
         "dependencies": {
+          "Empleats.Lib.DAL": "1.0.0",
           "Microsoft.AspNetCore.StaticFiles": "2.2.0",
           "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.5",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
           "Microsoft.EntityFrameworkCore.Sqlite": "3.1.5",
           "Microsoft.EntityFrameworkCore.Tools": "3.1.5",
@@ -748,6 +750,20 @@
             "assemblyVersion": "3.1.5.0",
             "fileVersion": "3.100.520.27007"
           }
+        }
+      },
+      "Microsoft.EntityFrameworkCore.InMemory/3.1.5": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "3.1.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {
+            "assemblyVersion": "3.1.5.0",
+            "fileVersion": "3.100.520.27007"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.InMemory.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore.Relational/3.1.5": {
@@ -2043,6 +2059,59 @@
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0",
           "System.Xml.XmlDocument": "4.3.0"
+        }
+      },
+      "Common.Lib/1.0.0": {
+        "dependencies": {
+          "Microsoft.AspNetCore.StaticFiles": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Microsoft.EntityFrameworkCore.Sqlite": "3.1.5",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.3"
+        },
+        "runtime": {
+          "Common.Lib.dll": {}
+        },
+        "compile": {
+          "Common.Lib.dll": {}
+        }
+      },
+      "Empleats.Lib/1.0.0": {
+        "dependencies": {
+          "Common.Lib": "1.0.0",
+          "Microsoft.AspNetCore.StaticFiles": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Microsoft.EntityFrameworkCore.Sqlite": "3.1.5",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.3",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Empleats.Lib.dll": {}
+        },
+        "compile": {
+          "Empleats.Lib.dll": {}
+        }
+      },
+      "Empleats.Lib.DAL/1.0.0": {
+        "dependencies": {
+          "Common.Lib": "1.0.0",
+          "Empleats.Lib": "1.0.0",
+          "Microsoft.AspNetCore.StaticFiles": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "3.1.5",
+          "Microsoft.EntityFrameworkCore.InMemory": "3.1.5",
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.5",
+          "Microsoft.EntityFrameworkCore.Sqlite": "3.1.5",
+          "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.3",
+          "NETStandard.Library": "2.0.3"
+        },
+        "runtime": {
+          "Empleats.Lib.DAL.dll": {}
+        },
+        "compile": {
+          "Empleats.Lib.DAL.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -3843,6 +3912,13 @@
       "path": "microsoft.entityframeworkcore.design/3.1.5",
       "hashPath": "microsoft.entityframeworkcore.design.3.1.5.nupkg.sha512"
     },
+    "Microsoft.EntityFrameworkCore.InMemory/3.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-WBgp8zQHtMJy1wdPCzh6lbXlGhRW+S98nN/PXsDvSk/5q3Ev6Oz5wBg+K98OUa4jJCz53o15vqRmPmVFgxuNbw==",
+      "path": "microsoft.entityframeworkcore.inmemory/3.1.5",
+      "hashPath": "microsoft.entityframeworkcore.inmemory.3.1.5.nupkg.sha512"
+    },
     "Microsoft.EntityFrameworkCore.Relational/3.1.5": {
       "type": "package",
       "serviceable": true,
@@ -4647,6 +4723,21 @@
       "sha512": "sha512-MYoTCP7EZ98RrANESW05J5ZwskKDoN0AuZ06ZflnowE50LTpbR5yRg3tHckTVm5j/m47stuGgCrCHWePyHS70Q==",
       "path": "system.xml.xmlserializer/4.3.0",
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
+    },
+    "Common.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleats.Lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Empleats.Lib.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

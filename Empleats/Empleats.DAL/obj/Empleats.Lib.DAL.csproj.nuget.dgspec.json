@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj": {}
+    "D:\\ASP.NET Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
+    "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
+        "projectUniqueName": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
         "projectName": "Common.Lib",
-        "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
+        "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
         "packagesPath": "C:\\Users\\dmany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\obj\\",
+        "outputPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmany\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.5, )"
             },
@@ -85,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj": {
+    "D:\\ASP.NET Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj",
+        "projectUniqueName": "D:\\ASP.NET Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj",
         "projectName": "Empleats.Lib.DAL",
-        "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj",
+        "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.DAL\\Empleats.Lib.DAL.csproj",
         "packagesPath": "C:\\Users\\dmany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.DAL\\obj\\",
+        "outputPath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmany\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,11 +112,11 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
-                "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj"
+              "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
+                "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj"
               },
-              "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj": {
-                "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj"
+              "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj": {
+                "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj"
               }
             }
           }
@@ -131,6 +135,10 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.5, )"
             },
@@ -176,14 +184,14 @@
         }
       }
     },
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj": {
+    "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
+        "projectUniqueName": "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
         "projectName": "Empleats.Lib",
-        "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
+        "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
         "packagesPath": "C:\\Users\\dmany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\obj\\",
+        "outputPath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmany\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -199,8 +207,8 @@
         "frameworks": {
           "netstandard2.1": {
             "projectReferences": {
-              "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
-                "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj"
+              "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
+                "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj"
               }
             }
           }
@@ -219,6 +227,10 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.5, )"
             },

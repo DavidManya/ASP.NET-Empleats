@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ulc2H+L/JxT1QyuAzy/iTrOE4GGHXfF2SU+jI28Blzd8UisifdhJIczuKfErhWS8iS4P3VxQY7inFoVaUae1sQ==",
+  "dgSpecHash": "RIzNoSRq+KNLuzSm7h0CfJGgkH9+3TpWXXpBNO32SaUlXwRA3kcgtgcTsZMkB0ST9SpyKFzNHn4bT1VvYU7tcA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
+  "projectFilePath": "D:\\ASP.NET Empleats\\Empleats\\Empleats.Lib\\Empleats.Lib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",
@@ -20,6 +20,7 @@
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\3.1.5\\microsoft.entityframeworkcore.abstractions.3.1.5.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\3.1.5\\microsoft.entityframeworkcore.analyzers.3.1.5.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.5\\microsoft.entityframeworkcore.design.3.1.5.nupkg.sha512",
+    "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\3.1.5\\microsoft.entityframeworkcore.inmemory.3.1.5.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.5\\microsoft.entityframeworkcore.relational.3.1.5.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\3.1.5\\microsoft.entityframeworkcore.sqlite.3.1.5.nupkg.sha512",
     "C:\\Users\\dmany\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\3.1.5\\microsoft.entityframeworkcore.sqlite.core.3.1.5.nupkg.sha512",

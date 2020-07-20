@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {}
+    "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
+    "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
+        "projectUniqueName": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
         "projectName": "Common.Lib",
-        "projectPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
+        "projectPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\Common.Lib.csproj",
         "packagesPath": "C:\\Users\\dmany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmany\\Desktop\\Empleats\\Empleats\\Common.Lib\\obj\\",
+        "outputPath": "D:\\ASP.NET Empleats\\Empleats\\Common.Lib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dmany\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,10 @@
               "version": "[2.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[3.1.5, )"
             },
